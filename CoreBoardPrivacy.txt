@@ -1,0 +1,1 @@
+We don't collect any personal information when you use the Core Board app.  The app does not connect to any servers and thus we have nowhere to store your data.
